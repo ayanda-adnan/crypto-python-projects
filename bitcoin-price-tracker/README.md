@@ -20,3 +20,5 @@ Bitcoin price: $71234
 ✓ Saved to bitcoin_prices.csv
 
 # Screenshots
+<img width="876" height="679" alt="price_tracker" src="https://github.com/user-attachments/assets/aa65edd3-82bb-48cd-964b-d1772c94563a" />
+
