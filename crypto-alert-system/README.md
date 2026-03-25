@@ -24,3 +24,5 @@ Current price: $69876
 🚨 ALERT LOGGED: $69876 dropped below $70000
 
 # Screenshots
+<img width="965" height="744" alt="alerts_system" src="https://github.com/user-attachments/assets/ae9b4a78-d0fc-47dd-a023-ce256c4bfd11" />
+
