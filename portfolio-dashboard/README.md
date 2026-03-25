@@ -26,3 +26,4 @@ Ethereum: 5 @ $2,121.29 = $10,606.45
 Solana: 50 @ $90.10 = $4,505.00
 
 # Screenshots
+<img width="977" height="765" alt="portfolio-dashboard" src="https://github.com/user-attachments/assets/fa57ae89-2ddb-4e85-87b3-d7e0c284b7da" />
